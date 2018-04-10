@@ -737,7 +737,7 @@
       <workItem from="1523251699751" duration="567000" />
       <workItem from="1523252334054" duration="12942000" />
       <workItem from="1523284458445" duration="3247000" />
-      <workItem from="1523324388082" duration="3962000" />
+      <workItem from="1523324388082" duration="4561000" />
     </task>
     <task id="LOCAL-00001" summary="第一个Spring的Maven项目">
       <created>1523325309308</created>
@@ -750,7 +750,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22393000" />
+    <option name="totallyTimeSpent" value="22992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
